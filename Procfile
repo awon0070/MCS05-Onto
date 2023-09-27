@@ -1,1 +1,1 @@
-web: java -jar FetchDataApplication.jar
+web: java java $JAVA_OPTS -cp target/classes:target/dependency/* org.example.FetchDataApplication
