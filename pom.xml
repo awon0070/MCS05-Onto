@@ -63,6 +63,7 @@
             <version>4.9.0</version>
         </dependency>
 
+
         <dependency>
             <groupId>com.github.ansell.pellet</groupId>
             <artifactId>pellet-jena</artifactId>
