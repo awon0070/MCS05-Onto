@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f605aab1-9f7d-4d72-b35d-de337e93f805" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Heroku-BackEnd.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Heroku-BackEnd.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/CorsConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/CorsConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/FetchDataApplication$DataController$TextData.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/FetchDataApplication$DataController$TextData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/FetchDataApplication$DataController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/FetchDataApplication$DataController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/FetchDataApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/FetchDataApplication.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +57,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "last_opened_file_path": "C:/Users/singj/IdeaProjects/Heroku-BackEnd",
-    "project.structure.last.edited": "Project",
+    "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "MavenSettings"
