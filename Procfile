@@ -1,1 +1,1 @@
-web: java -Xmx300m -cp target/classes:target/dependency/* org.example.FetchDataApplication
+web: java $JAVA_OPTS -cp target/classes:target/dependency/* org.example.FetchDataApplication
