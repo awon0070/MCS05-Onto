@@ -20,6 +20,7 @@ import java.net.UnknownHostException;
 public class FetchDataApplication {
 
     public static void main(String[] args) {
+        OntologyManager OM= new OntologyManager();
         SpringApplication.run(FetchDataApplication.class, args);
         try {
             InetAddress inetAddress = InetAddress.getLocalHost();

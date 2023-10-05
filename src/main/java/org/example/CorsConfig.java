@@ -13,8 +13,8 @@ public class CorsConfig {
     @Bean
     public CorsFilter corsFilter() {
         CorsConfiguration config = new CorsConfiguration();
-
-        config.addAllowedOrigin("http://10.156.90.225::${port}"); // Corrected origin
+        //http://10.156.90.225::${port}
+        config.addAllowedOrigin("*"); // Corrected origin
         config.addAllowedHeader("*");
         config.addAllowedMethod("*");
         config.setAllowCredentials(true);
